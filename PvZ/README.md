@@ -19,3 +19,9 @@ https://www.python.org/downloads/
 
 ## Authors
 * **Isaiah Chen**
+
+## Acknowledgements
+**ALL IMAGES AND MUSIC DO NOT BELONG TO ME**
+**Images belong to PopCap Games**
+**If any of the owners of the original content would like this taken down
+please contact me @ contact.isaiahchen@gmail.com **
