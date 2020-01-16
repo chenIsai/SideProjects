@@ -22,6 +22,6 @@ https://www.python.org/downloads/
 
 ## Acknowledgements
 **ALL IMAGES AND MUSIC DO NOT BELONG TO ME**
-**Images belong to PopCap Games**
-**If any of the owners of the original content would like this taken down
-please contact me @ contact.isaiahchen@gmail.com **
+* **Images belong to PopCap Games**
+* **If any of the owners of the original content would like this taken down**
+* **Please contact me @ contact.isaiahchen@gmail.com**
